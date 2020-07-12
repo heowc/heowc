@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm a Java backend developer.</br>
+I mainly use Spring, AWS and love all open source.❤️
+
 <!--
 **heowc/heowc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
