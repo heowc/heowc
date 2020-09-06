@@ -3,6 +3,10 @@
 I'm a Java backend developer.</br>
 I mainly use Spring, AWS and love all open source.❤️
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heowc&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![heowc's github stats](https://github-readme-stats.vercel.app/api?username=heowc&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **heowc/heowc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
